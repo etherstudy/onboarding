@@ -27,3 +27,13 @@
 
 ## 문의
 - [헬프데스크 바로가기](https://github.com/orgs/etherstudy/teams/4-management/discussions/1)
+
+***
+
+## 미디엄
+
+[https://medium.com/@etherstudy](https://medium.com/@etherstudy)
+
+## 기술블로그
+
+[https://tech.etherstudy.net](https://tech.etherstudy.net)
