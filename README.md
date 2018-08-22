@@ -2,13 +2,13 @@
 
 ## 슬랙
 
-https://eth-study.slack.com
+[https://eth-study.slack.com](https://eth-study.slack.com)
 
 초대를 통해 가입이 이루어집니다. 초대는 운영팀에게 문의해주세요.
 
 ## 위키
 
-https://github.com/etherstudy/wiki/wiki
+[https://github.com/etherstudy/wiki/wiki](https://github.com/etherstudy/wiki/wiki)
 
 ## 분과별 활동 페이지
 
