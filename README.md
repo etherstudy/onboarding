@@ -16,7 +16,14 @@
 
 ## 이더리움 연구회 활동 일정
 
-https://calendar.google.com/calendar/embed?src=l2nmt95t7b6mfd68n8hjf611lo%40group.calendar.google.com&ctz=Asia%2FSeoul
+1. 캘린더 보기
+
+    [https://calendar.google.com/calendar/embed?src=l2nmt95t7b6mfd68n8hjf611lo%40group.calendar.google.com&ctz=Asia%2FSeoul](https://calendar.google.com/calendar/embed?src=l2nmt95t7b6mfd68n8hjf611lo%40group.calendar.google.com&ctz=Asia%2FSeoul)
+
+2. 내 캘린더에 추가하기
+
+    URL로 추가하는 기능을 통해 아래 URL을 복사 붙여넣기해서 추가해주세요.
+    https://calendar.google.com/calendar/ical/l2nmt95t7b6mfd68n8hjf611lo%40group.calendar.google.com/public/basic.ics
 
 ## 위키
 
