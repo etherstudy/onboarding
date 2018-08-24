@@ -14,6 +14,10 @@
 
 운영팀에 알려주신 깃허브 계정을 통해 초대됩니다. 팀에 초대된 분들만 다음 위키 및 분과별 활동 페이지 등에 접근할 수 있습니다.
 
+## 이더리움 연구회 활동 일정
+
+https://calendar.google.com/calendar/embed?src=l2nmt95t7b6mfd68n8hjf611lo%40group.calendar.google.com&ctz=Asia%2FSeoul
+
 ## 위키
 
 [https://github.com/etherstudy/wiki/wiki](https://github.com/etherstudy/wiki/wiki)
